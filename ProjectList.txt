@@ -1,2 +1,3 @@
 1. Utkarsh Thakur ||  xyz.com || https://github.com/thakurutkarsh22/ProjectStashFyndStudents/
 2. Kapil Gupta || https://make-my-trip-client-nine.vercel.app/ || https://github.com/KapilG00/MakeMyTrip-Clone
+3. Vicky Bhattacharya || https://make-my-trip-frontend.vercel.app/ || https://github.com/venusau/make-my-trip-frontend || https://github.com/venusau/make-my-trip-backend
